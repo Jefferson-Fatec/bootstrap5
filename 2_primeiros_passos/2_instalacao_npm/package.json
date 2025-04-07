@@ -10,6 +10,6 @@
   "author": "Jefferson <jefferson@fatec.com.br> (https://www.cps.sp.gov.br/fatec/)",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^5.0.0-beta3"
+    "bootstrap": "^5.3.3"
   }
 }
