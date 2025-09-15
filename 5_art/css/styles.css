@@ -1,10 +1,10 @@
 /* ESTILOS GERAIS */
 * {
-  color: #25282e;
+  color: #25282e;/* Cor geral do projeto */
 }
 
 a, i {
-  transition: .5s;
+  transition: .5s;/* transicao animada*/
   text-decoration: none;
 }
 

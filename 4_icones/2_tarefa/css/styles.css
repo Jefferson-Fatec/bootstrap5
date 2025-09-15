@@ -1,3 +1,31 @@
+ 
+.bi.bi-bell {
+  font-size: 80px;
+  color: green;
+  margin: 20px;
+}
+ 
+ 
+.bi {
+  font-size: 80px;
+  color: green;
+  margin: 20px;
+}
+
+.bi {
+  font-size: 60px;
+}
+.red {
+  color: red;
+  background-color: blue;
+}
+ 
+.blue {
+ 
+  color: blue;
+ 
+}
+
 .col-12 {
   padding: 15px;
   margin: 15px;
